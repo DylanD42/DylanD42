@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dyland42" alt="dyland42" /></a> </p>
 
-- 🔭 I’m currently working on [Sorting Algorithms for class](https://github.com/DylanD42/430-Sorting-Algorithms)
+- 🔭 I’m currently working on [Restoring XBoing 2](https://github.com/ZackaryRippee/Fall25Group5)
 
 - 🌱 I’m currently learning **larger project software development**
 
